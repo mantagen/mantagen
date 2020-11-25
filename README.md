@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, I'm @mantagen. I'm a javascript engineer with six years' experience, currently enjoying writing React applications in Typescript.
 
-<!--
-**mantagen/mantagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm looking for part-time or full-time contracts starting January 2021.
 
-Here are some ideas to get you started:
+Technologies I'm actively using:
+ - [Typescript](https://www.typescriptlang.org), javascript with compile-time type safety
+ - [React](https://reactjs.org), best front-end developer experience I've tried
+ - [Typeorm(+postgresql)](https://typeorm.io), ORM in typescript
+ - [Gatsby](https://www.gatsbyjs.com), create static sites in no time using React and Graphql to query data from a CMS or the filesystem
+ - [Hasura(+postgresql)](https://hasura.io), instant graphql api and relational database
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
