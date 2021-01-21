@@ -62,7 +62,7 @@
               animation: fill-color-animation 10s infinite;
     }
     .text {
-      font-family: mono;
+      font-family: monospace;
       font-size: 115px;
       opacity: 0;
       fill: #000;
